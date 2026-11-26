@@ -1,1 +1,1 @@
-{"description":"Sum up 26 November's world news in one image (make.fun bounty news-image-20261126)","license":"MIT","main":"main.ts","name":"news-image-20261126","type":"module","version":"2.0.0"}
+{"description":"One image summing up the world news of Thursday 26 November 2026, for the make.fun bounty news-image-20261126.","license":"MIT","name":"news-image-20261126","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
